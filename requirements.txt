@@ -1,0 +1,11 @@
+# Core GUI Framework
+PyQt6>=6.5.0
+
+# Image handling & Icon generation
+Pillow>=10.0.0
+
+# Optional requests library (app automatically falls back to standard urllib if omitted)
+requests>=2.28.0
+
+# Standalone Windows Executable Compiler
+pyinstaller>=6.0.0
