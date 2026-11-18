@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Untitled beta.png.png" alt="Da Goose Companion Banner" width="100%">
+  <img src="assets/Untitled beta.png" alt="Da Goose Companion Banner" width="100%">
 </p>
 
 
