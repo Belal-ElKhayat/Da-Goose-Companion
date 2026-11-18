@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="assets/untitled beta.png.png" alt="Da Goose Companion Banner" width="100%">
+  <img src="assets/Untitled beta.png.png" alt="Da Goose Companion Banner" width="100%">
 </p>
 
-<h1 align="center">🪿 Da Goose Companion</h1>
 
 <p align="center">
   <em>A lightweight, taskbar-anchored desktop companion that acts as your sarcastic AI sidekick, anti-doomscroll bouncer, and personal digital roaster. Built purely in Python with zero bloat.</em>
