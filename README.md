@@ -7,7 +7,7 @@
   <em>A lightweight, taskbar-anchored desktop companion that acts as your sarcastic AI sidekick, anti-doomscroll bouncer, and personal digital roaster. Built purely in Python with zero bloat.</em>
 </p>
 
-# $\color{red}{\textsf{Beta}}$
+
 
 
 <p align="center">
@@ -17,9 +17,8 @@
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
 </p>
 
-<img src="https://shields.io" height="40" alt="Beta">
 
-
+# $\color{red}{\textsf{Beta}}$
 
 ---
 
