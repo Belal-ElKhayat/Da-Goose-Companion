@@ -14,7 +14,8 @@
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
 </p>
 
-$$\Huge\color{red}{\textsf{Beta}}$$
+<img src="https://shields.io" height="40" alt="Beta">
+
 
 
 ---
