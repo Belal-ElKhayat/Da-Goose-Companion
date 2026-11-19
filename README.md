@@ -14,6 +14,9 @@
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
 </p>
 
+$$\Huge\color{red}{\textsf{Beta}}$$
+
+
 ---
 
 ## 🚀 Features
