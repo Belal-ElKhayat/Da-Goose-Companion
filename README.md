@@ -7,8 +7,8 @@
   <em>A lightweight, taskbar-anchored desktop companion that acts as your sarcastic AI sidekick, anti-doomscroll bouncer, and personal digital roaster. Built purely in Python with zero bloat.</em>
 </p>
 
-[!CAUTION]
-**BETA:** This project is currently in active development and may contain breaking changes.
+# $\color{red}{\textsf{Beta}}$
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue.svg" alt="Python Version">
